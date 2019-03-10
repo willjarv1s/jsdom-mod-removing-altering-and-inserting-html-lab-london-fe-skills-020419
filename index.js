@@ -6,5 +6,8 @@ main.remove()
 
 var newHeader = document.createElement('h1');
 document.body.appendChild(newHeader);
+<<<<<<< HEAD
 newHeader.id = 'victory'
 newHeader.innerText = 'Will is the champion!'
+=======
+>>>>>>> 994e88177d9ed72c4772c963ad349d9b75680461
